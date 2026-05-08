@@ -1,0 +1,62 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "playerCount": 1,
+    "playerType": "Batsman",
+    "rating": 9.8,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 500,
+    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+  },
+  {
+    "playerName": "MS Dhoni",
+    "playerCount": 2,
+    "playerType": "Wicketkeeper-Batsman",
+    "rating": 9.5,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500,
+    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+  },
+  {
+    "playerName": "Jasprit Bumrah",
+    "playerCount": 3,
+    "playerType": "Bowler",
+    "rating": 9.2,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 2500,
+    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerCount": 4,
+    "playerType": "All-rounder",
+    "rating": 9.0,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Leg-spin",
+    "price": 900000,
+    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCount": 5,
+    "playerType": "Batsman",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg-spin",
+    "price": 850000,
+    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+  },
+  {
+    "playerName": "Steve Smith",
+    "playerCount": 5,
+    "playerType": "Batsman",
+    "rating": 8.9,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm leg-spin",
+    "price": 850000,
+    "playerImg": "https://i.ibb.co.com/LzN0G76H/images.webp"
+  }
+]
